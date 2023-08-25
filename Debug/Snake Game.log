@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\UNIVERSITY\1st semester\CP\final project\Snake Game\Snake Game\Source.cpp(157,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UNIVERSITY\1st semester\CP\final project\Snake Game\Snake Game\Source.cpp(353,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake Game.vcxproj -> D:\UNIVERSITY\1st semester\CP\final project\Snake Game\Debug\Snake Game.exe
