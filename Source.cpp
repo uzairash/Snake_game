@@ -69,7 +69,7 @@ int main()
 {
 	//First Time Menu
 	cout << "\t\t~`*`~-:WELCOME TO SNAKE GAME:-~`*`~\n" << endl;
-	cout << "Coded by: Asfand Yar && Uzair Ashfaq\n" << endl;
+	cout << "Coded by: Uzair Ashfaq && Asfand Yar \n" << endl;
 	cout << "\n~-:Game Controls:-~\nW,A,S,D ~~~> Movement\nSpace\t~~~> Pause\n" << endl;
 	//Playing The Snake Game
 	snake_game();
